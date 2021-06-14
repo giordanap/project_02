@@ -1,5 +1,6 @@
 <template>
   <div id="nav">
+    <!-- router link are anchor -->
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
