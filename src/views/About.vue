@@ -1,5 +1,5 @@
 <template>
-    <Title text="This is an about page 2" />
+    <Title text="This is an about page" />
 </template>
 
 <script>
